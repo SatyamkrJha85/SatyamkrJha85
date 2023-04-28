@@ -1,6 +1,4 @@
-![banner](https://github.com/SatyamkrJha85/SatyamkrJha85/blob/main/WhatsApp%20Image%202023-04-28%20at%209.42.35%20PM.jpeg)
-)
-)
+![logo](https://github.com/SatyamkrJha85/SatyamkrJha85/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Satyam Jha</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
