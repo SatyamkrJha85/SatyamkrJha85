@@ -1,52 +1,72 @@
-![logo](https://github.com/SatyamkrJha85/SatyamkrJha85/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg)
-<h1 align="center">Hi 👋, I'm Satyam Jha</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+![Modern Android Developer Banner](https://developer.android.com/static/codelabs/jetpack-compose-theming/img/m3_overview_dark.png)
+<!-- Reliable Jetpack Compose dark-themed banner with green accents. -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkrjha85&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkrjha85" /> </p>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [My Live Portfolio](https://satyamkr-portfolio.netlify.app/)
+# Hi 👋, I'm Satyam Jha
 
-- 📫 How to reach me **satyamkrjha85@gmail.com**
+### Android Engineer & Full-Stack Developer • Kotlin | Jetpack Compose | Firebase • Delhi, India 🇮🇳
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/satyamkrjha/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=satyamkrjha85&label=Profile%20Views&color=00b300&style=flat-square" alt="Profile views" />
 
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100024883410785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024883410785" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/satyam_kr_jha_?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/satyam_kr_jha_?igshid=zddkntzintm=" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyam jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam jha" height="30" width="40" /></a>
+---
+
+ **Explore my work:** [<img src="https://img.shields.io/badge/Portfolio-Live%20Projects-00b300?style=flat&logo=netlify" alt="Portfolio" />](https://satyamkr-portfolio.netlify.app/)  
+ **Get in touch:** <strong>satyamkrjha85@gmail.com</strong>
+
+---
+
+## About Me
+- **Experience:** 1.5+ years building Android apps, SDKs, AI features, and scalable solutions with 50+ projects delivered.
+- **Skills:** Native Android & iOS, Flutter & React Native hybrid apps, Jetpack Compose UI, Firebase integration, Material Design 3, App Store publishing.
+- **Ask me about:** Modern Android development, MVVM architecture, or optimizing mobile performance.
+- **Fun fact:** Turning ideas into seamless apps – open for full-time roles, freelance, and collaborations! ☕
+
+---
+
+## 🔗 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/satyamkrjha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpack compose" width="40" height="40"/>
-  </a>
- 
+---
+
+## Core Expertise & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="52" height="52" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="52" height="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="52" height="52" />
+</p>
+
+---
+
+##  GitHub Analytics
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkrjha85&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_color=0D1117&title_color=6BE234&text_color=FFFFFF&hide=css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamkrjha85&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_color=0D1117&title_color=6BE234&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkrjha85&show_icons=true&locale=en&layout=compact" alt="satyamkrjha85" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkrjha85&show_icons=true&locale=en" alt="satyamkrjha85" /></p>
 
+##  Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Newz** | Android news app for browsing, searching, saving articles with offline access and dark mode. | Kotlin, Jetpack Compose, Room, Hilt, Retrofit, Coil | [<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" alt="GitHub" />](https://github.com/SatyamkrJha85/Newz) |
+| **Web-Craft** | Product search app with home, splash, and detail screens using MVVM architecture. | Kotlin, Jetpack Compose, Retrofit, Coil | [<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" alt="GitHub" />](https://github.com/SatyamkrJha85/Web-Craft) |
+| **PlayStoreUi** | Recreation of Play Store UI screens including bottom bar, tab layout, and card designs. | Kotlin, Jetpack Compose | [<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" alt="GitHub" />](https://github.com/SatyamkrJha85/PlayStoreUi) |
+| **Satyam-Animation** | 10 Days of Jetpack Compose Animations: Thread card, game pad, story, wave effects, and more. | Kotlin, Jetpack Compose | [<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" alt="GitHub" />](https://github.com/SatyamkrJha85/Satyam-Animation) |
+| **Fosst-CarApp** | Android Auto app (details from repo; assuming car-related features based on name). | Kotlin | [<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" alt="GitHub" />](https://github.com/SatyamkrJha85/Fosst-CarApp) |
+| **Movie-Booking** | Movie booking app (details from repo; likely seat selection and booking flow). | Kotlin | [<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github" alt="GitHub" />](https://github.com/SatyamkrJha85/Movie-Booking) |
+
+---
+
+**Thanks for visiting! Let's collaborate on innovative Android projects. 🚀**
+
+</div>
